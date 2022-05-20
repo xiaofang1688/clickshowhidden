@@ -1,0 +1,18 @@
+.xControl {
+    font-size: 15px;
+    font-weight: bold;
+    padding: 5px 0;
+    background-color: #f5f5f5;
+    border-bottom: 4px solid #d0d0d0;
+    transition: all 0.3s linear;
+    text-align: center;
+    border-radius: 0 0 5% 5%;
+}
+.xControl a{
+    text-decoration: none;
+    display: block;
+}
+
+.hidden-element{
+	display: none;
+}
